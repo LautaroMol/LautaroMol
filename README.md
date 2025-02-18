@@ -53,4 +53,3 @@
   <img src="https://img.shields.io/github/last-commit/LautaroMol/LautaroMol?style=for-the-badge" alt="Last Commit" />
 </p>
 
-Puedes copiar y pegar el bloque de código de Shields en tu archivo README.md para actualizarlo.

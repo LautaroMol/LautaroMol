@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lautaro Castellanos Molina</h1>
-<h3 align="center">Passionate about technology and web development, always looking to improve and learn. I specialize in building efficient and scalable solutions.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lautaromol&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
-
----
 
 ### 🔥 About Me  
 - 🚀 Currently working on **Profesional E-Commerce**  
@@ -49,3 +41,16 @@
   </a>
 </p>
 
+---
+
+### 🚀 Shields  
+<p align="center">
+  <img src="https://img.shields.io/github/stars/LautaroMol/LautaroMol?style=for-the-badge" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/LautaroMol/LautaroMol?style=for-the-badge" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/issues/LautaroMol/LautaroMol?style=for-the-badge" alt="GitHub Issues" />
+  <img src="https://img.shields.io/github/license/LautaroMol/LautaroMol?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/github/languages/code-size/LautaroMol/LautaroMol?style=for-the-badge" alt="Code Size" />
+  <img src="https://img.shields.io/github/last-commit/LautaroMol/LautaroMol?style=for-the-badge" alt="Last Commit" />
+</p>
+
+Puedes copiar y pegar el bloque de código de Shields en tu archivo README.md para actualizarlo.

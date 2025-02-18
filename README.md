@@ -8,8 +8,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Profesional E-Commerce**
-- 🌱 Learning **Angular & .NET 8 with best practices**
+- 🔭 **Currently working on:** **Profesional E-Commerce** – Improving best practices and deepening knowledge in **.NET 8, Angular, and SQL Server.**
+- 🌱 Continuously learning and refining **clean architecture & scalable web solutions.**
 - 👨‍💻 Check out my projects: [Portfolio](https://lautaroportfolio.vercel.app/)
 - 💬 Ask me about **Angular, TypeScript & C#**
 - 📫 Contact me: **laumol159@gmail.com**
@@ -34,7 +34,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,typescript,js,html,css,tailwind,bootstrap,csharp,mysql,postgresql,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,typescript,js,html,css,tailwind,bootstrap,csharp,mssql,git,github" alt="Tech Stack" />
 </p>
 
 ---

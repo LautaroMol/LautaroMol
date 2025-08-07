@@ -43,13 +43,3 @@
 
 ---
 
-### 🚀 Shields  
-<p align="center">
-  <img src="https://img.shields.io/github/stars/LautaroMol/LautaroMol?style=for-the-badge" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/LautaroMol/LautaroMol?style=for-the-badge" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/issues/LautaroMol/LautaroMol?style=for-the-badge" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/license/LautaroMol/LautaroMol?style=for-the-badge" alt="License" />
-  <img src="https://img.shields.io/github/languages/code-size/LautaroMol/LautaroMol?style=for-the-badge" alt="Code Size" />
-  <img src="https://img.shields.io/github/last-commit/LautaroMol/LautaroMol?style=for-the-badge" alt="Last Commit" />
-</p>
-

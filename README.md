@@ -1,6 +1,6 @@
 
 ### 🔥 About Me  
-- 🚀 Currently working on **Personal apps and apps in freelance mode for customers**  
+- 🚀 Currently working on **Android and Ios Apps using ionic**  
 - 📖 Improving best practices and deepening my knowledge in **SQL Server, Angular, and .NET 8**  
 - 👨‍💻 Check out my projects: [lautaroportfolio.vercel.app](https://lautaroportfolio.vercel.app/)  
 - 💬 Ask me about **Angular, TypeScript, .NET, and C#**  

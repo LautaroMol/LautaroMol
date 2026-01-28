@@ -38,7 +38,7 @@
 ### 🏆 Highlights  
 - 📱 Mobile development with **Ionic (Android & iOS)**
 - ⚙️ Backend experience with **.NET 8 & SQL Server**
-- 🚀 Experience deploying production apps
+- 🚀 Experience deploying production and building apps
 
 ---
 

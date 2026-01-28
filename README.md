@@ -9,18 +9,17 @@
 
 ### 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ionic,angular,dotnet,typescript,js,html,css,tailwind,bootstrap,androidstudio,xcode,git,github,vscode,visualstudio" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ionic,angular,dotnet,typescript,js,html,css,tailwind,bootstrap,android,apple,git,github,vscode,visualstudio" />
 </p>
+
 
 ---
 
 ### 🏆 GitHub Achievements  
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=lautaromol&theme=onedark&no-frame=true&row=1&column=7" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=lautaromol&theme=onedark&no-frame=true" />
 </p>
+
 
 ---
 
@@ -30,10 +29,8 @@
     src="https://github-readme-stats.vercel.app/api?username=lautaromol&show_icons=true&theme=dark&hide_border=true" 
     alt="GitHub Stats" 
   />
-  <img 
-    src="https://streak-stats.demolab.com?user=lautaromol&theme=dark&hide_border=true" 
-    alt="GitHub Streak" 
-  />
+<img src="http://streak-stats.demolab.com?user=lautaromol&theme=dark" />
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautaromol&layout=compact&theme=dark&hide_border=true" 
     alt="Top Languages" 
